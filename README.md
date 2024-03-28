@@ -1,4 +1,4 @@
-[![Nikolay B Kalyuzhnyy GitHub Banner](./assets/banner-github.png)](https://linktr.ee/ks_g)
+[![Nikolay B Kalyuzhnyy GitHub Banner](/assets/banner-github.png)](https://kalyuzhnyy.ru)
 <h1 align="center">Hi there 👋, I'm <a href="https://kalyuzhnyy.ru/" target="_blank">NIKOLAY B KALYUZHNYY</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Senior DevOps\SystemEngeener-Administrator | Kalyuzhnyy company - AI integration company from Russia</h3>
