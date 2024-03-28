@@ -23,8 +23,7 @@ Feel free to check out my repositories and give them a ⭐ if you find them inte
 
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
@@ -44,7 +43,7 @@ Feel free to check out my repositories and give them a ⭐ if you find them inte
 ![](https://img.shields.io/badge/Code-VMWARE-informational?style=flat&logo=VmWare&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/MetroCluster-informational?style=flat&logo=MetroCluster&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MetroCluster-informational?style=flat&logo=MetroCluster&logoColor=white&color=4AB197)
 
 ## Statistic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbkalyuzhnyy&theme=cobalt&show_icons=true)
