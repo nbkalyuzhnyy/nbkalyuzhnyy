@@ -22,9 +22,7 @@ Feel free to check out my repositories and give them a ⭐ if you find them inte
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
