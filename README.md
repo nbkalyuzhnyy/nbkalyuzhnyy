@@ -44,7 +44,7 @@ Feel free to check out my repositories and give them a ⭐ if you find them inte
 ![](https://img.shields.io/badge/Code-VMWARE-informational?style=flat&logo=VmWare&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Stretch-Metro-Cluster-informational?style=flat&logo=Stretch Metro Cluster&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Stretch-Metro-Cluster-informational?style=flat&logo=StretchMetroCluster&logoColor=white&color=4AB197)
 
 ## Statistic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbkalyuzhnyy&theme=cobalt&show_icons=true)
