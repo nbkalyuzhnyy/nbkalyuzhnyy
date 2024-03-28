@@ -15,7 +15,7 @@
 
 ### 📌 My GitHub Repositories
 
-In my GitHub account, you'll find various repositories showcasing my work in Golang, Pithon, Node.js, and Shell. These projects cover different areas related to blockchain, DevOps, and backend development.
+In my GitHub account, you'll find various repositories showcasing my work in Golang, Python, Node.js, and Shell. These projects cover different areas related to blockchain, DevOps, and backend development.
 
 Feel free to check out my repositories and give them a ⭐ if you find them interesting!
 
